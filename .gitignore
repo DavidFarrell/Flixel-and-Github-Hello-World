@@ -16,3 +16,5 @@ bin-debug/TestProject.swf
 bin-debug/build_docs.sh
 
 bin-debug/docs/AC_OETags.js
+
+bin-debug/docs/all-index-A.html
